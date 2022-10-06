@@ -1,6 +1,6 @@
-# Sandbox Web
+# Star Wars Character Table
 
-Utilising a Star Wars API to populate the data.
+Utilising a Star Wars API to populate the data and built up in Typescript
 
 # Installation
 
